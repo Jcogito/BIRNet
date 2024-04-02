@@ -6,7 +6,7 @@
 > Yuetong Li,
 > Zeming Liu.
 
-## 1.Training/Testing
+## 1. Training/Testing
 
 ### 1.1. Prerequisites
 1. Environmental Setups
@@ -30,7 +30,7 @@
 3. Weights
     + Download the Res2Net or Swin-B weights, and then transfer them to the directory located at `./pre-weight/xx.pth`[download link (Google Drive)](https://drive.google.com/).
     + Download the pre-trained BIRNet weights, and then transfer them to the directory located at `./pre-weight/xx.pth`[download link (Google Drive)](https://drive.google.com/).
-4. Results
+### 1.2. Results
     + The pre-computed maps of BIRNet are available at `./pre-weight/xx.pth`[download link (Google Drive)](https://drive.google.com/).
 
 ## 3. Citation
