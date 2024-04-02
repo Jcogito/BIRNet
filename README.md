@@ -37,8 +37,8 @@
 ## 2. Citation
 Please cite our paper if you find the work useful: 
 
-	@inproceedings{,
-	title={},
+	@inproceedings{BIRNet2024,
+	title={Bi-directional Boundary-object interaction and refinement network for Camouflaged Object Detection},
 	author={},
 	booktitle={},
 	pages = "",
