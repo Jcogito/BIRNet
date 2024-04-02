@@ -1,4 +1,4 @@
-# [ICME 2024]BIRNet:Bi-directional boundary-object Interaction and Refinement Network for Camouflaged Object Detection
+# [ICME 2024]BIRNet:Bi-directional Boundary-object Interaction and Refinement Network for Camouflaged Object Detection
 > **Authors:** 
 > Jicheng Yang,
 > Qing Zhang,
