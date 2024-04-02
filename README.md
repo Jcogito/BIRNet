@@ -32,7 +32,7 @@
     + Download the pre-trained BIRNet weights, and then transfer them to the directory located at `./pre-weight/xx.pth`[download link (Google Drive)](https://drive.google.com/).
 
 ### 1.2. Results
-	The pre-computed maps of BIRNet are available at `./pre-weight/xx.pth`[download link (Google Drive)](https://drive.google.com/).
+The pre-computed maps of BIRNet are available at `./pre-weight/xx.pth`[download link (Google Drive)](https://drive.google.com/).
 
 ## 2. Citation
 Please cite our paper if you find the work useful: 
