@@ -28,8 +28,8 @@
   	  |    | -- NC4K
  	```
 3. Weights
-+ downloading Res2Net or Swin-B weights and move it into `./pre-weight/res2net50_v1b_26w_4s-3cf99910.pth`[download link (Google Drive)](https://drive.google.com/).
-+ downloading pretrained weights`Res2Net or Swin-B` and move it into `./pre-weight/BIR_res2net.pth`[download link (Google Drive)](https://drive.google.com/).
++ Download the pre-trained Res2Net or Swin-B weights, and then transfer them to the directory located at `./pre-weight/xx.pth`[download link (Google Drive)](https://drive.google.com/).
++ Download the pre-trained BIRNet weights, and then transfer them to the directory located at `./pre-weight/xx.pth`[download link (Google Drive)](https://drive.google.com/).
 
 ## 3. Citation
 
