@@ -15,17 +15,19 @@
     + Installing necessary packages: `pip install -r requirements.txt`.
 2. Data
     + The total dataset folder should like this:
-```
--- Data
-  | -- RGB
-  |    | -- DUTS
-  |    | -- ECSSD
-
-  ...
-
-  | -- RGBD
-  |    | -- NJUD
-  |    | -- NLPR
+	```
+	-- DATA
+	  | -- TrainDataset
+	  |    | -- Imgs
+	  |    | -- GT
+ 	  |    | -- Edge
+ 	-- DATA
+	  | -- TestDataset
+	  |    | -- CAMO
+	  |    | -- CHAMELEON
+ 	  |    | -- COD10K
+  	  |    | -- NC4K
+ 	```
 
 
 ## 3. Citation
