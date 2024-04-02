@@ -13,6 +13,20 @@
     + Creating a virtual environment in terminal: `conda create -n birnet python=3.9`.
     
     + Installing necessary packages: `pip install -r requirements.txt`.
+2. Data
+    + The total dataset folder should like this:
+```
+-- Data
+  | -- RGB
+  |    | -- DUTS
+  |    | -- ECSSD
+
+  ...
+
+  | -- RGBD
+  |    | -- NJUD
+  |    | -- NLPR
+
 
 ## 3. Citation
 
