@@ -7,7 +7,7 @@
 > Zeming Liu.
 
 ## 1. Overview
-The overview of the proposed network BIRNet, whose key component is the bi-directional transmission and correction (BTC), consisting of the boundary and object interaction (BOI) module and the feature calibration fusion (FCF) module.
+The overview of the proposed network BIRNet:
 <img src="https://github.com/Jcogito/BIRNet/blob/main/results/overview.png">
 
 ## 2. Training/Testing
