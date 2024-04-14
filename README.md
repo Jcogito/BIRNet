@@ -33,7 +33,7 @@ The overview of the proposed network BIRNet:
  	```
 3. Weights
     + Download the Res2Net or Swin-B weights, and then transfer them to the directory located at `./pre-weight/xx.pth`[download link (BaiduYun)](https://pan.baidu.com/s/1Nfe7nhMvz9giZb6NsxJ67Q?pwd=zrdd).
-    + Download the pre-trained BIRNet weights, and then transfer them to the directory located at `./pre-weight/xx.pth`[download link (BaiduYun)](https://drive.google.com/).
+    + Download the pre-trained BIRNet weights, and then transfer them to the directory located at `./pre-weight/xx.pth`[download link (BaiduYun)](https://pan.baidu.com/s/19sGOYJFUQ5Si34k3gTs7SA?pwd=xd6c).
 
 ### 2.2. Results
   The pre-computed maps of BIRNet are available at `./pre-weight/xx.pth`[download link (BaiduYun)](https://pan.baidu.com/s/1_9Zm1ch5IJX0a2dPg5AB7A?pwd=37bj).
