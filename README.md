@@ -36,7 +36,7 @@ The overview of the proposed network BIRNet:
     + Download the pre-trained BIRNet weights, and then transfer them to the directory located at `./pre-weight/xx.pth`[download link (BaiduYun)](https://pan.baidu.com/s/19sGOYJFUQ5Si34k3gTs7SA?).
 
 ### 2.2. Results
-  The pre-computed maps of BIRNet are available at `./pre-weight/xx.pth`[download link (BaiduYun)](https://pan.baidu.com/s/1_9Zm1ch5IJX0a2dPg5AB7A?pwd=37bj).
+  The pre-computed maps of BIRNet are available at [download link (BaiduYun)](https://pan.baidu.com/s/1_9Zm1ch5IJX0a2dPg5AB7A?pwd=37bj).
 
 ## 3. Citation
 Please cite our paper if you find the work useful: 
