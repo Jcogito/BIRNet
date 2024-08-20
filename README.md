@@ -37,14 +37,3 @@ The overview of the proposed network BIRNet:
 
 ### 2.2. Results
   The pre-computed maps of BIRNet are available at [download link (BaiduYun)](https://pan.baidu.com/s/1_9Zm1ch5IJX0a2dPg5AB7A?pwd=37bj).
-
-## 3. Citation
-Please cite our paper if you find the work useful: 
-
-	@inproceedings{BIRNet2024,
-	title={Bi-directional Boundary-object interaction and refinement network for Camouflaged Object Detection},
-	author={},
-	booktitle={},
-	pages = "",
-	year={2024}
-	}
